@@ -42,7 +42,7 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Keith Noel
           </Heading>
           <p>Digital Craftsman ( Artist / Developer / Designer )</p>
         </Box>
