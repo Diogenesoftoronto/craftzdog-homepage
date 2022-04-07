@@ -78,14 +78,10 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Takuya is a freelance and a full-stack developer based in Osaka with a
-          passion for building digital services/stuff he wants. He has a knack
-          for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. When not online, he loves
-          hanging out with his camera. Currently, he is living off of his own
-          product called{' '}
-          <NextLink href="/works/inkdrop" scroll={false}>
-            <Link>Inkdrop</Link>
+          Keith is a freelance and a full-stack developer based in Toronto with a
+          passion for building web3, big data, and metaverse applications. He has a knack for all things learning exciting new technology, from planning and designing all the way to solving real-life problems with code. When not online, he loves hanging out with his cat. Currently, he is creating a product called{' '}
+          <NextLink href="/works/writeandtell" scroll={false}>
+            <Link>Write & Tell</Link>
           </NextLink>
           .
         </Paragraph>
@@ -103,8 +99,8 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          <BioYear>1999</BioYear>
+          Born in Toronto, Canada.
         </BioSection>
         <BioSection>
           <BioYear>2010</BioYear>
