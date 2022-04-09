@@ -103,17 +103,35 @@ const Home = () => (
           Born in Toronto, Canada.
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
-        </BioSection>
-        <BioSection>
-          <BioYear>2010</BioYear>
+          <BioYear>2021</BioYear>
           Worked at Yahoo! Japan (ヤフー株式会社入社)
         </BioSection>
         <BioSection>
-          <BioYear>2012 to present</BioYear>
+          <BioYear>2021</BioYear>
+          Worked at Yahoo! Japan (ヤフー株式会社入社)
+        </BioSection>
+        <BioSection>
+          <BioYear>2021</BioYear>
+          Completed the Web Developer&apos;s Program in the Lighthouse Labs Bootcamp 
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Worked at Yahoo! Japan (ヤフー株式会社入社)
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Worked at Yahoo! Japan (ヤフー株式会社入社)
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Worked at Yahoo! Japan (ヤフー株式会社入社)
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Worked at Yahoo! Japan (ヤフー株式会社入社)
+        </BioSection>
+        <BioSection>
+          <BioYear>present</BioYear>
           Works as a freelance
         </BioSection>
       </Section>
